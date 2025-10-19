@@ -15,5 +15,4 @@ databases:
   - name: student-grade-db
     plan: free
 
-runtime: python-3.13.0
-
+runtime: python-3.12.7
